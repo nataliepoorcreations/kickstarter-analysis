@@ -14,5 +14,6 @@ Performing analysis on kickstarter data to uncover trends in a wide variety of c
 -  Some of the limitiations of the data set are not having a reference to why the campaign failed. Identifying backers by gender may help in finding target audiences as well.  
 ### Other Possible Tables and Graphs
 A comparison of the US vs GB by succes rate compared to total campaigns. 
+
 ![US_vs_GB](https://user-images.githubusercontent.com/106033535/174458437-02a81e1b-0de3-4df3-b2ad-7df9af0fc70d.png)
 ![Picture1](https://user-images.githubusercontent.com/106033535/174458440-b5ecd227-8ab8-42df-b1c1-ced99cb57795.png)
